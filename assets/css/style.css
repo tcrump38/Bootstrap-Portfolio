@@ -1,0 +1,121 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url("../images/oriental.png");
+}
+
+.navbar {
+    padding: 0;
+    border-bottom: .1rem solid rgba(0,0,0,.125);
+    background-color: white;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 15%;
+}
+
+.navbar-brand {
+    color: white;
+    background: #4aaaa5;
+    font-weight: bold;
+    font-size: 1.7rem;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 1.5rem;
+    margin-left: 12%;
+}
+
+.navbar-light .nav-item .nav-link {
+    color: #797e7f;
+}
+
+.container {
+    margin-top: 3rem;
+    margin-bottom: 14rem;
+}
+
+.main-section {
+    background: white;
+    overflow: hidden;
+    border: .1rem solid rgba(0,0,0,.125);
+    
+    
+}
+
+.header {
+    color: #4aaaa5;
+    padding: 1.5rem;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0rem;
+}
+
+.main-divider {
+    width: 94%;
+    margin-top: 0rem;
+    margin-bottom: 1.5rem;
+    color: #f0f0f0;
+}
+
+.img-thumbnail {
+    float: left;
+    margin-left: 1.5rem;
+    margin-right: 2rem;
+    margin-bottom: .4rem;
+}
+
+p {
+    margin-right: 1.5rem;
+    margin-left: 1.5rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.2rem;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 1.5rem;
+}
+
+.card-body {
+    text-align: center;
+    border: .1rem solid rgba(0,0,0,.125);
+}
+
+.card-title {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+.connect-icon {
+    height: 3.5rem;
+    width: 3.5rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+footer {
+    background-color: #666666;
+    color: gray;
+    padding: 1.7rem;
+    border-top: .1rem solid #4aaaa5;
+    text-align: center;
+    
+    
+}
+
+/* Contact Page */
+
+#contact-form {
+    padding: 1.25rem;
+    margin-bottom: 1.25rem;
+}
+
+.btn-primary {
+    background-color: #4aaaa5;
+    border: none;
+}
+
