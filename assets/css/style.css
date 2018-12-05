@@ -122,6 +122,9 @@ footer {
 
 /*Portfolio Page*/
 
+.card-img {
+    height: 20rem;
+}
 
 .card-img-overlay {
     display: flex;
@@ -138,6 +141,14 @@ footer {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 1.5rem;
     width: 100%;
+    text-align: center;
+}
+
+.overlay2 {
+    color: #4aaaa5;
+    background-color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 1rem;
     text-align: center;
 }
 
