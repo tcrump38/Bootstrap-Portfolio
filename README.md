@@ -14,7 +14,7 @@ Home:
 Contact page:
 <img width="1275" alt="Screen Shot 2019-03-15 at 1 16 28 PM" src="https://user-images.githubusercontent.com/39817046/54453159-bd30d680-4724-11e9-9d22-f4faaa05bcd5.png">
 
-Portfolio page:
+Portfolio page to explore all of my awesome projects:
 <img width="1277" alt="Screen Shot 2019-03-15 at 1 16 19 PM" src="https://user-images.githubusercontent.com/39817046/54453184-ce79e300-4724-11e9-8790-790134b3881b.png">
 
 
