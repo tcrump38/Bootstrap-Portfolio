@@ -146,10 +146,15 @@ footer {
 
 .overlay2 {
     color: #4aaaa5;
-    background-color: white;
+    background-color: black;
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 1rem;
     text-align: center;
+}
+
+.decription {
+    color: #4aaaa5;
+    background-color: black;
 }
 
 .row {
