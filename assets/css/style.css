@@ -154,7 +154,11 @@ footer {
 
 .decription {
     color: #4aaaa5;
-    background-color: black;
+}
+
+.card-img-top {
+    height: 300px;
+    width: 286px;
 }
 
 .row {
